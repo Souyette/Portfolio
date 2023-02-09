@@ -23,18 +23,6 @@
             >
               <i class="fab fa-github"></i>
             </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('behance')"
-            >
-              <i class="fab fa-behance"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('resume')"
-            >
-              <i class="fa fa-file"></i>
-            </button>
           </div>
         </div>
       </div>
@@ -61,12 +49,6 @@ export default {
           break;
         case "github":
           window.open(this.github, "_blank");
-          break;
-        case "behance":
-          window.open(this.behance, "_blank");
-          break;
-        case "resume":
-          window.open(this.resume, "_blank");
           break;
       }
     },
