@@ -38,7 +38,7 @@
                 href="/about"
                 @click.prevent="$emit('scroll', 'about')"
                 :class="{ 'text-light': nightMode }"
-                >About</a
+                >À propos</a
               >
             </li>
             <li class="nav-item mx-2">
@@ -47,7 +47,7 @@
                 href="/skills"
                 @click.prevent="$emit('scroll', 'skills')"
                 :class="{ 'text-light': nightMode }"
-                >Skills</a
+                >Compétences</a
               >
             </li>
             <li class="nav-item mx-2 ">

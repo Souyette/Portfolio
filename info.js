@@ -1,6 +1,6 @@
 let info = {
-  name: "Mahy Mohab",
-  logo_name: "Mahy",
+  name: "Elliot LE GUEN",
+  logo_name: "Elliot",
   flat_picture: require("./src/assets/me.png"),
   config: {
     use_cookies: true,
@@ -9,64 +9,52 @@ let info = {
     }
   },
   description:
-    "hey there, I'm Mahy Mohab about to graduate from the computer and information technology KSU, SE department. A UI/UX Designer with 2+ experience familiar with Figma, xd, photoshop, illustrator, also, a Frontend Engineer with 4+ experience, and 1+ experience with react, react native, vuejs.",
+    "Bonjour, je suis elliot LE GUEN je suis dev",
   links: {
-    linkedin: "https://www.linkedin.com/in/mahy-mohab-209/",
-    github: "https://github.com/mahy209",
-    behance: "https://www.behance.net/mahymohab",
-    resume: "https://drive.google.com/file/d/1W0pzOo1Gb-W70BYKehOfZ4qaJt7m1_7O/view?usp=sharing",
+    linkedin: "https://www.linkedin.com/in/elliot-le-guen-16b871265/",
+    github: "https://github.com/Souyette",
   },
   education: [
     {
-      name: "KFS University",
-      place: "Kafr Elsheikh",
-      date: "sep, 2018 - present",
-      degree: "bachelor in software engineering",
-      gpa: "3.1/4.0",
+      name: "Lycée Public Pro. LÉONARD DE VINCI",
+      place: "Montaigu",
+      date: "2019 - 2021",
+      degree: "BAC STI2D Option SIN",
       description:
         "",
       skills: [
-        "Software Engineering",
-        "web programming",
-        "UI/UX design",
-        "Front-end developing",
+        "Arduino",
+      ]
+    },
+    {
+      name: "Lycée Public Polyvalent CHEVROLLIER",
+      place: "Angers",
+      date: "2021 - 2023",
+      degree: "BTS SIO Option SLAM",
+      description:
+          "",
+      skills: [
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "VueJs",
+        "PHP",
+        "C#",
+        "SQL",
+        "JSON",
+        "Flutter",
       ]
     },
   ],
   experience: [
     {
-      name: "ITI",
-      place: "Kafr elSheikh, Egypt",
+      name: "Internship",
+      place: "E-TESTING",
       date: "1,sep, 2021 - 28,sep, 2021",
-      position: "VueJS web developer",
+      position: "développeur",
       description:
         "",
       skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript", "es6", "VueJS"]
-    },
-    {
-      name: "Udacity",
-      place: "Egypt",
-      date: "Jun 2021 - Jan 2022",
-      position: "React Web Developer",
-      description:
-        "",
-      skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP"]
-    },
-    {
-      name: "Freelancer",
-      place: "Egypt",
-      date: "jun, 2021 - sep, 2021",
-      position: "Junior UI/UX Designer",
-      description: "creating apps and web UI, Creating Interactive prototypes, Low fidelity and UX researches",
-      skills: ["figma", "Adobe XD", "Photoshop", "Illustrator"]
-    },
-    {
-      name: "Technopolitan",
-      place: "Cairo, Egypt",
-      date: "Jan 2022 - Present",
-      position: "Mid-Level UI/UX Designer",
-      description: "part of team include project managers and developers to create technically feasible design, creating 95% of CRM of the company ,creating user experience and interface using adobe XD for best user solution ,finishing 80% of tasks before the target ",
-      skills: ["figma", "Adobe XD"]
     },
   ],
   skills: [
