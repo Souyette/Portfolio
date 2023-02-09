@@ -51,8 +51,6 @@ export default {
     return {
       linkedin: info.links.linkedin,
       github: info.links.github,
-      behance: info.links.behance,
-      resume: info.links.resume,
     };
   },
   methods: {

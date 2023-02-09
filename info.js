@@ -50,41 +50,36 @@ let info = {
     {
       name: "Internship",
       place: "E-TESTING",
-      date: "1,sep, 2021 - 28,sep, 2021",
+      date: "1,avril, 2022 - 14,juin, 2021",
       position: "développeur",
       description:
         "",
-      skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript", "es6", "VueJS"]
+      skills: ["PowerShell","Mysql"]
     },
   ],
   skills: [
     {
-      title: "UX/UI Design",
-      info: ["Figma", "Illustrator", "XD", "Photoshop", "Gimp"],
-      icon: "fa fa-pencil-square-o"
-    },
-    {
       title: "Language",
       info: [
-        "Python","Javascript","TypeScript","Java","C#"],
+        "Python","Javascript","Dart","PHP","C#"],
       icon: "fa fa-code"
     },
     {
       title: "Front-end",
       info: [
-        "HTML5","CSS3","Bootstrap3","Es6"],
+        "HTML5","CSS3","Javascript"],
       icon: "fa fa-cubes"
     },
     {
-      title: "web technologies",
-      info: ["Vue", "React", "Node"],
+      title: "Framework",
+      info: ["Laravel","Vuejs", "Bootstrap", "Tailwind"],
       icon: "fas fa-laptop-code"
     },
   ],
   portfolio_design: [
     {
-      name: "Keep it Green",
-      title: "UI/UX Design",
+      name: "Hackat'Innov",
+      title: "Hackat'Innov",
       pictures: [
         {
           img: require("./src/assets/designs/Keep it green/cover.png"),
@@ -95,7 +90,7 @@ let info = {
           title: "show"
         },
       ],
-      technologies: ["Figma", "Photoshop"],
+      technologies: ["Php", "C#","Mysql"],
       category: "Visual Design",
       github: "",
       date: "Jan, 2022",
@@ -271,7 +266,7 @@ let info = {
   ],
   portfolio: [
     {
-      name: "Diary App",
+      name: "Uber Bar",
       pictures: [
         {
           img: require("./src/assets/portfolio/diary/1.png")
@@ -283,17 +278,17 @@ let info = {
           img: require("./src/assets/portfolio/diary/3.png")
         },
       ],
-      technologies: ["react", "scss", "local storage"],
-      category: "Web App",
-      date: "Aug, 2021 - 20 days",
+      technologies: ["Laravel","React", "API", "C#","Flutter"],
+      category: "Application Web & Application lourde",
+      date: "Décembre, 2022 - 30 days",
       github:
-        "https://github.com/mahy209/notes-react-app.git",
-      visit: "https://github.com/mahy209/notes-react-app.git",
+        "https://github.com/Souyette/AP4Bar.git",
+      visit: "https://github.com/Souyette/AP4Bar.git",
       description:
-        " Diary react app with some new features: Dark mode, upload images, tags, filter search with title/content/tag "
+        " Une application web style uber eat mais pour les bars, une application flutter pour les barman ainsi qu'une application lourde pour les responsable bar"
     },
     {
-      name: "Online Examination",
+      name: "Hackat'Innov",
       pictures: [
         {
           img: require("./src/assets/portfolio/online examination/exam (1).png")
@@ -311,13 +306,13 @@ let info = {
           img: require("./src/assets/portfolio/online examination/exam (5).png")
         }
       ],
-      technologies: ["HTML", "CSS","JavaSript","JQuery", "PHP", "MySQL"],
-      category: "Web App",
-      date: "Apr, 2021 - May, 2021",
-      github: "https://github.com/mahy209/online-examination.git",
-      visit: "https://github.com/mahy209/online-examination.git",
+      technologies: ["HTML", "CSS","PHP","C#", "MySQL"],
+      category: "Hackathon",
+      date: "sept, 2022 - May, 2021",
+      github: "https://github.com/Les-coloc-s",
+      visit: "https://github.com/Les-coloc-s",
       description:
-        "Online Examination System Today Online Examination System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in php is very useful to learn it. What is an online examination system? In an online examination system examine get their user id and password with his/her admit card. This id is already saved in the examination server. When examine login to the server he/she get his/her profile already register. On the certain time examine gets the message to start the examination. All answers given by examine are saved into the server with his/her profile information. Online examination system also allows to correct the answer if the examine needed to change any answer in the examination time duration, however, after the time duration any change will not allow. This also makes c checking the answer easy and error proof as computers are more accurate than man and provide fast results too. Php is a web base language so we can create an online examination system in PHP. Administrator of Online Examination has multiple features such as Add, Delete, Update Topics and Question. To Login as Admin put inside your browser."
+        "Application pour gérer des hackathon qui est la contraction de hack et marathon"
     },
     {
       name: "MyFlix.com",
