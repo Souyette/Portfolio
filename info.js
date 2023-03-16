@@ -62,7 +62,7 @@ let info = {
       date: "6,février, 2023 - 31,mars, 2023",
       position: "développeur",
       description:
-          "Création d'un DataGrid en jquey/php pour améliorer  le backoffice de l'entreprise",
+          "Création d'un DataGrid en Jquery/php pour améliorer  le backoffice de l'entreprise",
       skills: ["PHP8","Mysql","Jquery"]
     },
   ],
