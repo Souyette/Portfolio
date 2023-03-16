@@ -106,7 +106,7 @@ let info = {
         "https://github.com/Souyette/AP4Bar.git",
       visit: "https://github.com/Souyette/AP4Bar.git",
       description:
-        "Une application web style uber eat mais pour les bars, une application flutter pour les barman ainsi qu'une application lourde pour les responsable bar"
+          "Ce projet a été réalisé à 3, il est composé d'une application web étant dans la même optique qu'uber eat, mais pour les bars. Une application flutter pour les barman ainsi qu'une application lourde pour les responsables de bar"
     },
     {
       name: "Hackat'Innov",
@@ -127,28 +127,19 @@ let info = {
           img: require("./src/assets/portfolio/online examination/exam (5).png")
         }
       ],
-      technologies: ["HTML", "CSS","PHP","C#", "MySQL"],
+      technologies: ["HTML", "CSS","PHP8","C#", "MySQL"],
       category: "Hackathon",
-      date: "sept, 2022 - May, 2021",
+      date: "sept, 2022 - nov, 2022",
       github: "https://github.com/Les-coloc-s",
       visit: "https://github.com/Les-coloc-s",
       description:
-        "Application pour gérer des hackathon qui est la contraction de hack et marathon"
+          "Ce projet a été réalisé à 2, il est composé d'une application Web pour gérer des hackathons ainsi que les équipes qui y participe. Il est composé d'une application lourde permettant au chef d'équipe et aux organisateurs de gérer leur équipe et hackathon"
     },
     {
       name: "DataGrid",
       pictures: [
         {
           img: require("./src/assets/portfolio/myflix.com/1.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/2.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/3.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/4.png")
         },
       ],
       technologies: ["PHP8", "Jquery", "SQL"],
