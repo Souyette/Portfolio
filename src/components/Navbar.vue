@@ -94,7 +94,7 @@
 import Logo from "./helpers/Logo";
 import info from "../../info";
 
-export default {
+export default{
   name: "Navbar",
   props: {
     nightMode: {
