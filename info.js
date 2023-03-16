@@ -68,15 +68,15 @@ let info = {
   ],
   skills: [
     {
-      title: "Language",
+      title: "Back-end",
       info: [
-        "Python","Javascript","Dart","PHP8","C#"],
+        "JS-Jquery","PHP 8","Laravel(ORM,API)","C#","SQL"],
       icon: "fa fa-code"
     },
     {
       title: "Front-end",
       info: [
-        "HTML5","CSS3","Javascript","Laravel Blade"],
+        "HTML5","CSS3","JS-VueJS","Laravel Blade"],
       icon: "fa fa-cubes"
     },
     {
