@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "Bonjour, je m'appelle elliot LE GUEN, je suis un passionné de développement avec une passion pour les technologies innovantes et les projets créatifs. Actuellement en deuxième années de BTS SIO, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences en matière de programmation",
+    "Bonjour, je m'appelle elliot LE GUEN j'ai 20 ans, je suis passionné par le développement informatique. Actuellement en deuxième années de BTS SIO, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences en matière de programmation",
   links: {
     linkedin: "https://www.linkedin.com/in/elliot-le-guen-16b871265/",
     github: "https://github.com/Souyette",

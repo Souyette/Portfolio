@@ -129,7 +129,7 @@ export default {
   },
   data() {
     return {
-      email: "elliot.leguen@gmail.com",
+      email: "",
       name: "",
       text: "",
       showSnackbar: false,
