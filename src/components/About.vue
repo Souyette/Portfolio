@@ -54,7 +54,7 @@ export default {
     return {
       parcours: {
         title: "Parcours",
-        data: info.education,
+        data: info.parcours,
       },
       experience: {
         title: "Experiences",
