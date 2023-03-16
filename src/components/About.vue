@@ -52,9 +52,9 @@ export default {
   },
   data() {
     return {
-      parcours: {
+      education: {
         title: "Parcours",
-        data: info.parcours,
+        data: info.education,
       },
       experience: {
         title: "Experiences",

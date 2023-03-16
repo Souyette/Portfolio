@@ -13,7 +13,7 @@ let info = {
     linkedin: "https://www.linkedin.com/in/elliot-le-guen-16b871265/",
     github: "https://github.com/Souyette",
   },
-  parcours: [
+  education: [
     {
       name: "Lycée Public Pro. LÉONARD DE VINCI",
       place: "Montaigu",
