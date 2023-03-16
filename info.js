@@ -8,12 +8,12 @@ let info = {
     }
   },
   description:
-    "Bonjour, je suis elliot LE GUEN je suis dev",
+    "Bonjour, je m'appelle elliot LE GUEN, je suis un passionné de développement avec une passion pour les technologies innovantes et les projets créatifs. Actuellement étudiant en BTS SIO, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences en matière de programmation",
   links: {
     linkedin: "https://www.linkedin.com/in/elliot-le-guen-16b871265/",
     github: "https://github.com/Souyette",
   },
-  education: [
+  parcours: [
     {
       name: "Lycée Public Pro. LÉONARD DE VINCI",
       place: "Montaigu",
@@ -47,26 +47,35 @@ let info = {
   ],
   experience: [
     {
-      name: "Internship",
+      name: "Stage",
       place: "E-TESTING",
-      date: "1,avril, 2022 - 14,juin, 2021",
+      date: "1,avril, 2022 - 14,juin, 2022",
       position: "développeur",
       description:
         "Création d'un Data WareHouse pour permettre à l'entreprise de faire des statistiques d'ensemble sur les clients de l'entreprise",
       skills: ["PowerShell","Mysql"]
+    },
+    {
+      name: "Stage",
+      place: "E-TESTING",
+      date: "6,février, 2023 - 31,mars, 2023",
+      position: "développeur",
+      description:
+          "Création d'un DataGrid en jquey/php pour améliorer  le backoffice de l'entreprise",
+      skills: ["PHP8","Mysql","Jquery"]
     },
   ],
   skills: [
     {
       title: "Language",
       info: [
-        "Python","Javascript","Dart","PHP","C#"],
+        "Python","Javascript","Dart","PHP8","C#"],
       icon: "fa fa-code"
     },
     {
       title: "Front-end",
       info: [
-        "HTML5","CSS3","Javascript"],
+        "HTML5","CSS3","Javascript","Laravel Blade"],
       icon: "fa fa-cubes"
     },
     {

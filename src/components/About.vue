@@ -52,12 +52,12 @@ export default {
   },
   data() {
     return {
-      education: {
-        title: "education",
+      parcours: {
+        title: "Parcours",
         data: info.education,
       },
       experience: {
-        title: "experiences",
+        title: "Experiences",
         data: info.experience,
       },
     };
