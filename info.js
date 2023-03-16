@@ -70,18 +70,18 @@ let info = {
     {
       title: "Back-end",
       info: [
-        "JS-Jquery","PHP 8","Laravel(ORM,API)","C#","SQL"],
+        "JS-Jquery","PHP 8","C#","SQL"],
       icon: "fa fa-code"
     },
     {
       title: "Front-end",
       info: [
-        "HTML5","CSS3","JS-VueJS","Laravel Blade"],
+        "HTML5","CSS3","JavaScript","Laravel Blade"],
       icon: "fa fa-cubes"
     },
     {
       title: "Framework",
-      info: ["Laravel","Vuejs", "Bootstrap", "Tailwind"],
+      info: ["Laravel (ORM,API)","Vuejs", "Bootstrap", "Tailwind"],
       icon: "fas fa-laptop-code"
     },
   ],
