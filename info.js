@@ -39,6 +39,7 @@ let info = {
         "Javascript",
         "VueJs",
         "PHP 8 ",
+        "Laravel ",
         "C#",
         "SQL",
         "JSON",
