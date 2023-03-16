@@ -1,7 +1,6 @@
 let info = {
   name: "Elliot LE GUEN",
   logo_name: "Elliot",
-  flat_picture: require("./src/assets/me.png"),
   config: {
     use_cookies: true,
     navbar: {
@@ -38,7 +37,7 @@ let info = {
         "CSS",
         "Javascript",
         "VueJs",
-        "PHP",
+        "PHP 8 ",
         "C#",
         "SQL",
         "JSON",
@@ -53,7 +52,7 @@ let info = {
       date: "1,avril, 2022 - 14,juin, 2021",
       position: "développeur",
       description:
-        "",
+        "Création d'un Data WareHouse pour permettre à l'entreprise de faire des statistiques d'ensemble sur les clients de l'entreprise",
       skills: ["PowerShell","Mysql"]
     },
   ],

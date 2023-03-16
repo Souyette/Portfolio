@@ -80,8 +80,6 @@ export default {
       name: info.name,
       linkedin: info.links.linkedin,
       github: info.links.github,
-      behance: info.links.behance,
-      resume: info.links.resume
     };
   },
   methods: {
@@ -92,12 +90,6 @@ export default {
           break;
         case "github":
           window.open(this.github, "_blank");
-          break;
-        case "behance":
-          window.open(this.behance, "_blank");
-          break;
-        case "resume":
-          window.open(this.resume, "_blank");
           break;
       }
     },
