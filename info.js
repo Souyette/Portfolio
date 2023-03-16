@@ -1,7 +1,7 @@
 let info = {
   name: "Elliot LE GUEN",
   logo_name: "Elliot",
-  flat_picture: require("./src/assets/moi.jpeg"),
+  flat_picture: require("./src/assets/moi.png"),
   config: {
     use_cookies: true,
     navbar: {
@@ -134,6 +134,31 @@ let info = {
       visit: "https://github.com/Les-coloc-s",
       description:
         "Application pour gérer des hackathon qui est la contraction de hack et marathon"
+    },
+    {
+      name: "DataGrid",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/myflix.com/1.png")
+        },
+        {
+          img: require("./src/assets/portfolio/myflix.com/2.png")
+        },
+        {
+          img: require("./src/assets/portfolio/myflix.com/3.png")
+        },
+        {
+          img: require("./src/assets/portfolio/myflix.com/4.png")
+        },
+      ],
+      technologies: ["PHP8", "Jquery", "SQL"],
+      category: "Application Web",
+      date: "Fevrier, 2023 - Mars 2023",
+      github:
+        "https://github.com/",
+      visit: "https://github.com",
+      description:
+        " Création d'un DataGrid avec l'aide de la bibliothèque DevExpress. Ce DataGrid à pour but d'améliorer le BackOffice de l'entreprise E-TESTING.  "
     },
   ],
 };
