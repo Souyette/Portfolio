@@ -38,7 +38,7 @@
                 href="/about"
                 @click.prevent="$emit('scroll', 'about')"
                 :class="{ 'text-light': nightMode }"
-                >À propos</a
+                >Parcours</a
               >
             </li>
             <li class="nav-item mx-2">

@@ -1,6 +1,7 @@
 let info = {
   name: "Elliot LE GUEN",
   logo_name: "Elliot",
+  flat_picture: require("./src/assets/me.png"),
   config: {
     use_cookies: true,
     navbar: {
@@ -133,31 +134,6 @@ let info = {
       visit: "https://github.com/Les-coloc-s",
       description:
         "Application pour gérer des hackathon qui est la contraction de hack et marathon"
-    },
-    {
-      name: "MyFlix.com",
-      pictures: [
-        {
-          img: require("./src/assets/portfolio/myflix.com/1.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/2.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/3.png")
-        },
-        {
-          img: require("./src/assets/portfolio/myflix.com/4.png")
-        },
-      ],
-      technologies: ["react", "css", "TMDB"],
-      category: "Web App",
-      date: "Aug, 2021 - 10 days",
-      github:
-        "https://github.com/mahy209/MyFlix-react-app.git",
-      visit: "https://github.com/mahy209/MyFlix-react-app.git",
-      description:
-        " flix.com is a netflix clone using React JS and TMDB with courusal and search engine. "
     },
   ],
 };
