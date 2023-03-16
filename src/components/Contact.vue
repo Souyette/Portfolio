@@ -129,7 +129,7 @@ export default {
   },
   data() {
     return {
-      email: "",
+      email: "elliot.leguen@gmail.com",
       name: "",
       text: "",
       showSnackbar: false,
@@ -148,7 +148,7 @@ export default {
     sendEmail() {
       if (!this.email || !this.name || !this.text) {
         this.showSnackbar = true;
-        this.snackbarMessage = "Please all the fields";
+        this.snackbarMessage = "Veuillez renseigner tous les champs";
         this.snackbarColor = "#64808E";
       } else {
         var obj = {
@@ -168,7 +168,7 @@ export default {
           .then(
             (result) => {
               this.showSnackbar = true;
-              this.snackbarMessage = "Thanks! Message recieved.";
+              this.snackbarMessage = "Message envoyé ! .";
               this.snackbarColor = "#1aa260";
 
               this.email = "";
@@ -177,7 +177,7 @@ export default {
             },
             (error) => {
               this.showSnackbar = true;
-              this.snackbarMessage = "Oops! Something went wrong.";
+              this.snackbarMessage = "Echec de l'envoi.";
               this.snackbarColor = "#64808E";
             }
           );
