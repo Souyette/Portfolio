@@ -113,20 +113,17 @@ let info = {
       name: "Hackat'Innov",
       pictures: [
         {
-          img: require("./src/assets/portfolio/online examination/exam (1).png")
+          img: require("./src/assets/portfolio/online examination/exam (6).png")
         },
         {
-          img: require("./src/assets/portfolio/online examination/exam (2).png")
+          img: require("./src/assets/portfolio/online examination/exam (7).png")
         },
         {
-          img: require("./src/assets/portfolio/online examination/exam (3).png")
+          img: require("./src/assets/portfolio/online examination/exam (8).png")
         },
         {
-          img: require("./src/assets/portfolio/online examination/exam (4).png")
+          img: require("./src/assets/portfolio/online examination/exam (9).png")
         },
-        {
-          img: require("./src/assets/portfolio/online examination/exam (5).png")
-        }
       ],
       technologies: ["HTML", "CSS","PHP8","C#", "MySQL"],
       category: "Hackathon",
