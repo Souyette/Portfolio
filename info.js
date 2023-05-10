@@ -107,7 +107,7 @@ let info = {
         "https://github.com/Souyette/AP4Bar.git",
       visit: "https://github.com/Souyette/AP4Bar.git",
       description:
-          "Ce projet a été réalisé à 3, il est composé d'une application web étant dans la même optique qu'uber eat, mais pour les bars. Une application flutter pour les barman ainsi qu'une application lourde pour les responsables de bar"
+          "Ce projet a été réalisé à 3, il est composé d'une application web, une application mobile ainsi qu'une aplication lourde étant dans la même optique qu'uber eat, mais pour les bars. Une application flutter pour les barman ainsi qu'une application lourde pour les responsables de bar"
     },
     {
       name: "Hackat'Innov",
