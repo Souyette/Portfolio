@@ -94,10 +94,10 @@ let info = {
           img: require("./src/assets/portfolio/diary/5.png")
         },
         {
-          img: require("./src/assets/portfolio/diary/2.png")
+          img: require("./src/assets/portfolio/diary/6.png")
         },
         {
-          img: require("./src/assets/portfolio/diary/3.png")
+          img: require("./src/assets/portfolio/diary/7.png")
         },
       ],
       technologies: ["Laravel","React", "API", "C#","Flutter"],
