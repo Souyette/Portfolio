@@ -91,7 +91,7 @@ let info = {
       name: "Uber Bar",
       pictures: [
         {
-          img: require("./src/assets/portfolio/diary/1.png")
+          img: require("./src/assets/portfolio/diary/5.png")
         },
         {
           img: require("./src/assets/portfolio/diary/2.png")
